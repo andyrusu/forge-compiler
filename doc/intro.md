@@ -7,6 +7,7 @@
 5. [Generate Clojure to AST](https://github.com/andyrusu/forge-compiler/blob/master/doc/intro.md#generate-clj)
 
 <h2 id="req">Requirements</h2>
+* Java version > 8
 
 <h2 id="install">Installation</h2>
 
